@@ -1,0 +1,7 @@
+node_modules/
+.idea/
+.env
+coverage
+junit.xml
+protected_docs
+.DS_Store
